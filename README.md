@@ -11,9 +11,3 @@ Enthusiastic and Skilled React Developer with a strong foundation in Front-End D
 * ⚡  See my [LikedIn Profile](https://www.linkedin.com/in/shayanameend)
 * ✉️  You can contact me at [shayan.ameen.developer@gmail.com](mailto:shayan.ameen.developer@gmail.com)
 * 🤝  I'm open to collaborate on interesting projects
-
-### Skills
-
-<p>
-![image](https://github.com/shayanameend/shayanameend/assets/121384079/9b35ceb4-80bf-4bcf-9fa5-fda2ca339e30)
-</p>
