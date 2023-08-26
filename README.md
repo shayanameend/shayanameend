@@ -14,4 +14,8 @@ Enthusiastic and Skilled React Developer with a strong foundation in Front-End D
 
 ### Skills
 
-<svg width="100%" height="100%" viewBox="-10.5 -9.45 21 18.9" fill="none" xmlns="http://www.w3.org/2000/svg" class="text-sm me-0 w-10 h-10 text-link dark:text-link-dark flex origin-center transition-all ease-in-out"><circle cx="0" cy="0" r="2" fill="currentColor"></circle><g stroke="currentColor" stroke-width="1" fill="none"><ellipse rx="10" ry="4.5"></ellipse><ellipse rx="10" ry="4.5" transform="rotate(60)"></ellipse><ellipse rx="10" ry="4.5" transform="rotate(120)"></ellipse></g></svg>
+<ul>
+  <Li>
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F403%2F269%2Fpng-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png&tbnid=n8A__1UgsUpFVM&vet=12ahUKEwiN5uTyk_qAAxVsvicCHeSiBuAQMygBegQIARBl..i&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dreact&docid=0sg-1PoLPCUrMM&w=360&h=360&q=react%20logo&ved=2ahUKEwiN5uTyk_qAAxVsvicCHeSiBuAQMygBegQIARBl" />
+  </Li>
+</ul>
