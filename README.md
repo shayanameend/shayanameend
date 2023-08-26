@@ -14,7 +14,6 @@ Enthusiastic and Skilled React Developer with a strong foundation in Front-End D
 
 ### Skills
 
-<ul>
-  <Li>
-  </Li>
-</ul>
+<p>
+  ![image](https://github.com/shayanameend/shayanameend/assets/121384079/92a69799-0af7-4df5-9d1f-deb537a9e2be)
+</p>
