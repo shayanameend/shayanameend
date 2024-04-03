@@ -8,6 +8,6 @@ Enthusiastic and Skilled React Developer with a strong foundation in Front-End D
 
 * 🌍  I'm based in Karachi, Pakistan
 * 🖥️  See my [Portfolio](https://zedsols.vercel.app)
-* ⚡  See my [LikedIn Profile](https://www.linkedin.com/in/shayanworkspace)
-* ✉️  You can contact me at [shayan.ameen.developer@gmail.com](mailto:shayan.ameen.workspace@gmail.com)
+* ⚡  See my [LikedIn Profile](https://www.linkedin.com/in/shayan-workspace)
+* ✉️  You can contact me at [shayan.workspace@gmail.com](mailto:shayan.workspace@gmail.com)
 * 🤝  I'm open to collaborate on interesting projects
