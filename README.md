@@ -7,7 +7,6 @@ React Developer
 Enthusiastic and Skilled React Developer with a strong foundation in Front-End Development, and a passion for creating Visually Appealing and Responsive Web Applications. Proficient in leveraging React.js and related technologies to deliver User-Friendly and High-Performance Interfaces.
 
 * 🌍  I'm based in Karachi, Pakistan
-* 🖥️  See my [Portfolio](https://shayanameend.vercel.app)
 * ⚡  See my [LikedIn Profile](https://www.linkedin.com/in/shayan-workspace)
 * ✉️  You can contact me at [shayan.workspace@gmail.com](mailto:shayan.workspace@gmail.com)
 * 🤝  I'm open to collaborate on interesting projects
